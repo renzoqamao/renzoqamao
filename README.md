@@ -23,6 +23,7 @@ Soy **Bachiller en Ciencias de la Computación**. Actualmente me desempeño como
 
 ### 📈 Últimos Proyectos
 * 🔒 [migration-to-database](https://github.com/renzoqamao/migration-to-database) - migration csv to database postgresql
+* 🔒 [migration-to-alfresco](https://github.com/renzoqamao/migration-to-alfresco) - migration database to alfresco content services
 * 🌍 [acs-monitoring-prometheus-grafana](https://github.com/renzoqamao/acs-monitoring-prometheus-grafana) - Stack de monitoreo para Alfresco Content Services (ACS) basado en Prometheus y Grafana, desplegado mediante Docker Compose. Recolecta métricas de la plataforma Alfresco, el sistema operativo anfitrión y los servicios de transformación, y las visualiza en dashboards precargados.
 * 🔒 [onbase-alfresco-transfer](https://github.com/renzoqamao/onbase-alfresco-transfer) - PoC of Transfer files from OnBase to Alfresco.
 * 🔒 [advanced-search-extension](https://github.com/renzoqamao/advanced-search-extension) - Amplía la búsqueda avanzada de Alfresco para admitir consultas de múltiples valores en propiedades restringidas, incluidos controles de formulario Compartir personalizados y lógica de búsqueda de backend.
@@ -30,7 +31,6 @@ Soy **Bachiller en Ciencias de la Computación**. Actualmente me desempeño como
 * 🌍 [gettingStartedWithK8s](https://github.com/renzoqamao/gettingStartedWithK8s) - Sin descripción
 * 🌍 [intro-helm](https://github.com/renzoqamao/intro-helm) - curso de helm de apasoft.
 * 🌍 [intro-k8s](https://github.com/renzoqamao/intro-k8s) - introducción a kubernetes
-* 🌍 [sdk6-out-of-process](https://github.com/renzoqamao/sdk6-out-of-process) - Laboratorio realizado en alfresco techquest sobre proyectos fuera del proceso de alfresco.
 
 ---
 
