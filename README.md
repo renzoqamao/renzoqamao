@@ -22,6 +22,7 @@ Soy **Bachiller en Ciencias de la Computación**. Actualmente me desempeño como
 ---
 
 ### 📈 Últimos Proyectos
+* 🔒 [workflow-extension](https://github.com/renzoqamao/workflow-extension) - Flujo de trabajo personalizado de Alfresco/Activiti: revisión secuencial de Hojas de Vida por tres grupos (aprobar/rechazar con asignación dinámica de grupo). Alfresco SDK All-In-One.
 * 🔒 [migration-to-alfresco](https://github.com/renzoqamao/migration-to-alfresco) - migration database to alfresco content services
 * 🔒 [migration-to-database](https://github.com/renzoqamao/migration-to-database) - migration csv to database postgresql
 * 🌍 [training-aps](https://github.com/renzoqamao/training-aps) - repositorio de recursos para desarrollar en alfresco process services
@@ -30,7 +31,6 @@ Soy **Bachiller en Ciencias de la Computación**. Actualmente me desempeño como
 * 🔒 [advanced-search-extension](https://github.com/renzoqamao/advanced-search-extension) - Amplía la búsqueda avanzada de Alfresco para admitir consultas de múltiples valores en propiedades restringidas, incluidos controles de formulario Compartir personalizados y lógica de búsqueda de backend.
 * 🔒 [dynamic-associations](https://github.com/renzoqamao/dynamic-associations) - asociaciones dinamicas por webscripts.
 * 🌍 [gettingStartedWithK8s](https://github.com/renzoqamao/gettingStartedWithK8s) - Sin descripción
-* 🌍 [intro-helm](https://github.com/renzoqamao/intro-helm) - curso de helm de apasoft.
 
 ---
 
