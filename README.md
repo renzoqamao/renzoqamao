@@ -22,6 +22,7 @@ Soy **Bachiller en Ciencias de la Computación**. Actualmente me desempeño como
 ---
 
 ### 📈 Últimos Proyectos
+* 🔒 [shared-folder-extension](https://github.com/renzoqamao/shared-folder-extension) - Extensión para Alfresco (ACS + Share) para compartir carpetas mediante enlaces públicos: navegación, descarga, ZIP, expiración y bloqueo.
 * 🔒 [import-full-node](https://github.com/renzoqamao/import-full-node) - Alfresco Import FullNode es un módulo para Alfresco Content Services que permite importar documentos y carpetas con metadata avanzada, aspectos, versionado completo, UUIDs personalizados y asociaciones peer y child. Diseñado para migraciones complejas, cargas batch e integraciones empresariales.
 * 🔒 [migration-to-alfresco](https://github.com/renzoqamao/migration-to-alfresco) - migration database to alfresco content services
 * 🔒 [dynamic-associations](https://github.com/renzoqamao/dynamic-associations) - asociaciones dinamicas por webscripts.
@@ -30,7 +31,6 @@ Soy **Bachiller en Ciencias de la Computación**. Actualmente me desempeño como
 * 🔒 [migration-to-database](https://github.com/renzoqamao/migration-to-database) - migration csv to database postgresql
 * 🌍 [training-aps](https://github.com/renzoqamao/training-aps) - repositorio de recursos para desarrollar en alfresco process services
 * 🌍 [acs-monitoring-prometheus-grafana](https://github.com/renzoqamao/acs-monitoring-prometheus-grafana) - Stack de monitoreo para Alfresco Content Services (ACS) basado en Prometheus y Grafana, desplegado mediante Docker Compose. Recolecta métricas de la plataforma Alfresco, el sistema operativo anfitrión y los servicios de transformación, y las visualiza en dashboards precargados.
-* 🔒 [onbase-alfresco-transfer](https://github.com/renzoqamao/onbase-alfresco-transfer) - PoC of Transfer files from OnBase to Alfresco.
 
 ---
 
