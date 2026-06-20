@@ -22,15 +22,15 @@ Soy **Bachiller en Ciencias de la Computación**. Actualmente me desempeño como
 ---
 
 ### 📈 Últimos Proyectos
+* 🔒 [migration-to-alfresco](https://github.com/renzoqamao/migration-to-alfresco) - migration database to alfresco content services
+* 🔒 [metadata-driven-security-extension](https://github.com/renzoqamao/metadata-driven-security-extension) - Extensión Alfresco (AIO SDK 4.11) que aplica seguridad a documentos basada en metadatos "keyword". Normaliza valores (usuario, grupo, security keyword), asigna el rol Consumer y rompe la herencia. Incluye Behaviour reactivo y WebScripts para procesamiento masivo o individual, con listas de referencia y propiedades configurables.
 * 🔒 [shared-folder-extension](https://github.com/renzoqamao/shared-folder-extension) - Extensión para Alfresco (ACS + Share) para compartir carpetas mediante enlaces públicos: navegación, descarga, ZIP, expiración y bloqueo.
 * 🔒 [import-full-node](https://github.com/renzoqamao/import-full-node) - Alfresco Import FullNode es un módulo para Alfresco Content Services que permite importar documentos y carpetas con metadata avanzada, aspectos, versionado completo, UUIDs personalizados y asociaciones peer y child. Diseñado para migraciones complejas, cargas batch e integraciones empresariales.
-* 🔒 [migration-to-alfresco](https://github.com/renzoqamao/migration-to-alfresco) - migration database to alfresco content services
 * 🔒 [dynamic-associations](https://github.com/renzoqamao/dynamic-associations) - asociaciones dinamicas por webscripts.
 * 🔒 [advanced-search-extension](https://github.com/renzoqamao/advanced-search-extension) - Amplía la búsqueda avanzada de Alfresco para admitir consultas de múltiples valores en propiedades restringidas, incluidos controles de formulario Compartir personalizados y lógica de búsqueda de backend.
 * 🔒 [workflow-extension](https://github.com/renzoqamao/workflow-extension) - Flujo de trabajo personalizado de Alfresco/Activiti: revisión secuencial de Hojas de Vida por tres grupos (aprobar/rechazar con asignación dinámica de grupo). Alfresco SDK All-In-One.
 * 🔒 [migration-to-database](https://github.com/renzoqamao/migration-to-database) - migration csv to database postgresql
 * 🌍 [training-aps](https://github.com/renzoqamao/training-aps) - repositorio de recursos para desarrollar en alfresco process services
-* 🌍 [acs-monitoring-prometheus-grafana](https://github.com/renzoqamao/acs-monitoring-prometheus-grafana) - Stack de monitoreo para Alfresco Content Services (ACS) basado en Prometheus y Grafana, desplegado mediante Docker Compose. Recolecta métricas de la plataforma Alfresco, el sistema operativo anfitrión y los servicios de transformación, y las visualiza en dashboards precargados.
 
 ---
 
