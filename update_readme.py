@@ -60,40 +60,56 @@ def update_readme():
     
     tech_display = " ".join(badges) if badges else "*Sin tecnologías detectadas.*"
 
-    # Obtener los 10 proyectos más recientes (por fecha de actualizacion)
-    recent = sorted(repos, key=lambda x: x['updated_at'], reverse=True)[:10]
-    
-    project_items = []
-    for r in recent:
-        print(f"recent: {r['name']} - Actualizado el {r['updated_at']} - Privado: {r['private']}")
-        if( "renzoqamao"==r['name']):
-            continue;
-        visibility = "🔒" if r['private'] else "🌍"
-        project_items.append(f"* {visibility} [{r['name']}]({r['html_url']}) - {r['description'] or 'Sin descripción'}")
-    
-    project_list = "\n".join(project_items)
+    # Ordenar por fecha de actualización (más reciente primero)
+    sorted_repos = sorted(repos, key=lambda x: x['updated_at'], reverse=True)
+
+    def render_projects(repo_list, visibility_icon):
+        """Construye la lista en Markdown para un conjunto de repos."""
+        items = []
+        for r in repo_list:
+            print(f"recent: {r['name']} - Actualizado el {r['updated_at']} - Privado: {r['private']}")
+            items.append(f"* {visibility_icon} [{r['name']}]({r['html_url']}) - {r['description'] or 'Sin descripción'}")
+        return items
+
+    # Filtrar el repo de perfil y separar por visibilidad (últimos 10 de cada uno)
+    visible_repos = [r for r in sorted_repos if r['name'] != "renzoqamao"]
+    private_repos = [r for r in visible_repos if r['private']][:10]
+    public_repos = [r for r in visible_repos if not r['private']][:10]
+
+    private_list = "\n".join(render_projects(private_repos, "🔒")) or "*Sin proyectos privados recientes.*"
+    public_list = "\n".join(render_projects(public_repos, "🌍")) or "*Sin proyectos públicos recientes.*"
+
+    # Marcador que separa el encabezado escrito a mano (estático) del bloque
+    # dinámico. Todo lo que esté ANTES del marcador se preserva tal cual; todo
+    # lo que esté después se regenera en cada ejecución.
+    MARKER = "<!-- DYNAMIC_CONTENT:START -->"
 
     with open("README.md", "r", encoding="utf-8") as f:
-        lines = f.readlines()
+        content = f.read()
 
-    # Preservamos el encabezado original (líneas 1 a 17)
-    original_header = lines[:17]
+    # Preservamos el encabezado estático (todo lo anterior al marcador)
+    static_header = content.split(MARKER)[0].rstrip() + "\n\n"
 
     # Construir el nuevo bloque dinámico
-    new_content = [
+    dynamic_block = [
+        MARKER + "\n",
+        "<!-- ⚠️ El contenido a partir de aquí se genera automáticamente con update_readme.py — no editar a mano. -->\n",
         "\n### 🚀 Tecnologías Detectadas en mis Repositorios\n",
         f"{tech_display}\n",
         "\n---\n",
         "\n### 📈 Últimos Proyectos\n",
-        f"{project_list}\n",
+        "\n**🔒 Privados**\n",
+        f"{private_list}\n",
+        "\n**🌍 Públicos**\n",
+        f"{public_list}\n",
         "\n---\n",
         "\n### 📫 Contacto\n",
-        "* **LinkedIn:** [linkedin.com/in/renzoqa](https://www.linkedin.com/in/renzoqa)\n",
-        "* **Email:** [renzoquispeamao@gmail.com](mailto:renzoquispeamao@gmail.com)\n",
-        "* **Ubicación:** Perú 🇵🇪\n"
+        "[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renzoqa)\n",
+        "[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renzoquispeamao@gmail.com)\n",
+        "![Ubicación](https://img.shields.io/badge/Per%C3%BA-D91023?style=for-the-badge&logoColor=white)\n"
     ]
 
-    final_file_content = "".join(original_header) + "".join(new_content)
+    final_file_content = static_header + "".join(dynamic_block)
 
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(final_file_content)

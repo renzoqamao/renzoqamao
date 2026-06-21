@@ -1,20 +1,89 @@
-# 👋 Hola, soy Renzo Quispe Amao
+<div align="center">
 
-### **Backend Developer | Bachiller en Ciencias de la Computación | DevOps & Data Specialist**
+# 👋 Hola, soy Renzo Renato Quispe Amao
 
-Soy **Bachiller en Ciencias de la Computación**. Actualmente me desempeño como **Developer Backend**, donde diseño arquitecturas escalables, gestiono migraciones críticas de datos y optimizo el ciclo de vida de software.
+### Backend Developer · Alfresco Content Services · 🚀 explorando DevOps
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renzoqa)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renzoquispeamao@gmail.com)
+![Location](https://img.shields.io/badge/Per%C3%BA-D91023?style=for-the-badge&logoColor=white)
+
+</div>
+
+> **Bachiller en Ciencias de la Computación** y **Desarrollador Backend.** Diseño arquitecturas escalables, lidero migraciones críticas de datos y construyo extensiones empresariales sobre **Alfresco Content Services**. Hoy estoy ampliando mi camino hacia el mundo **DevOps**, para llevar lo que construyo desde el código hasta producción de forma automatizada y confiable.
+
+---
+
+### 🧑‍💻 Sobre mí
+
+- 💻 **Lo que hago:** desarrollo backend y **gestión de contenido empresarial** con Alfresco Content Services (ACS · ADF · Share) — extensiones, workflows y migraciones masivas de datos.
+- 🚀 **Lo que estoy aprendiendo:** **DevOps** — CI/CD, contenedores e infraestructura automatizada (Docker · Kubernetes · OpenShift), dando mis primeros pasos para integrarlo a mi trabajo diario.
+- 🌱 **Profundizando en:** buenas prácticas de arquitectura, calidad de código y observabilidad.
+- 🤝 **Busco:** colaborar en proyectos de plataformas de contenido, backend distribuido y automatización de despliegues.
+- 💬 **Pregúntame sobre:** Alfresco, Spring Boot y migraciones de datos.
 
 ---
 
-### 🛠️ Especialidades y Herramientas
+### 🛠️ Tech Stack
 
-* **Backend:** Java (Spring Boot), Python, Node.js, TypeScript.
-* **Cloud & Infraestructura:** AWS (Certified), Docker, Kubernetes, Helm, OpenShift.
-* **Ingeniería de Datos:** SQL, NoSQL, Apache Spark, Hadoop.
-* **Sistemas:** Linux Administration, Shell Scripting, C.
-* **Frontend:** React.js, React Native, Angular.
+**Lenguajes**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Backend & Frameworks**
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+**Plataformas de Contenido (ECM)**
+
+![Alfresco Content Services](https://img.shields.io/badge/Alfresco%20Content%20Services-4BA0DB?style=for-the-badge&logoColor=white)
+![ADF](https://img.shields.io/badge/Alfresco%20ADF-1A2980?style=for-the-badge&logoColor=white)
+![Activiti](https://img.shields.io/badge/Activiti%20BPM-2C8EBB?style=for-the-badge&logoColor=white)
+
+**☁️ DevOps & Cloud** _(en aprendizaje)_
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Datos**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 
 ---
+
+### 📊 Estadísticas de GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renzoqamao&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renzoqamao&layout=compact&hide_border=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=renzoqamao&hide_border=true&theme=tokyonight)
+
+</div>
+
+---
+
+<!-- DYNAMIC_CONTENT:START -->
+<!-- ⚠️ El contenido a partir de aquí se genera automáticamente con update_readme.py — no editar a mano. -->
 
 ### 🚀 Tecnologías Detectadas en mis Repositorios
 ![Batchfile](https://img.shields.io/badge/-Batchfile-grey?style=flat-square&logo=github&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![Clarion](https://img.shields.io/badge/-Clarion-grey?style=flat-square&logo=github&logoColor=white) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=docker&logoColor=white) ![FreeMarker](https://img.shields.io/badge/-FreeMarker-grey?style=flat-square&logo=github&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Go Template](https://img.shields.io/badge/-Go%20Template-grey?style=flat-square&logo=github&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Papyrus](https://img.shields.io/badge/-Papyrus-grey?style=flat-square&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SCSS](https://img.shields.io/badge/-SCSS-grey?style=flat-square&logo=github&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-89E051?style=flat-square&logo=gnubash&logoColor=white) ![TeX](https://img.shields.io/badge/-TeX-grey?style=flat-square&logo=github&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -22,6 +91,8 @@ Soy **Bachiller en Ciencias de la Computación**. Actualmente me desempeño como
 ---
 
 ### 📈 Últimos Proyectos
+
+**🔒 Privados**
 * 🔒 [aca-shared-folder-extension](https://github.com/renzoqamao/aca-shared-folder-extension) - Frontend ADF/Angular (ACA/ADW) de la extensión de carpeta compartida: comparte una carpeta como enlace público y navega, previsualiza y descarga su contenido sin iniciar sesión. Acompaña al backend renzoqamao/shared-folder-extension.
 * 🔒 [migration-to-database](https://github.com/renzoqamao/migration-to-database) - migration csv to database postgresql
 * 🔒 [migration-to-alfresco](https://github.com/renzoqamao/migration-to-alfresco) - migration database to alfresco content services
@@ -32,9 +103,12 @@ Soy **Bachiller en Ciencias de la Computación**. Actualmente me desempeño como
 * 🔒 [advanced-search-extension](https://github.com/renzoqamao/advanced-search-extension) - Amplía la búsqueda avanzada de Alfresco para admitir consultas de múltiples valores en propiedades restringidas, incluidos controles de formulario Compartir personalizados y lógica de búsqueda de backend.
 * 🔒 [workflow-extension](https://github.com/renzoqamao/workflow-extension) - Flujo de trabajo personalizado de Alfresco/Activiti: revisión secuencial de Hojas de Vida por tres grupos (aprobar/rechazar con asignación dinámica de grupo). Alfresco SDK All-In-One.
 
+**🌍 Públicos**
+*Sin proyectos públicos recientes.*
+
 ---
 
 ### 📫 Contacto
-* **LinkedIn:** [linkedin.com/in/renzoqa](https://www.linkedin.com/in/renzoqa)
-* **Email:** [renzoquispeamao@gmail.com](mailto:renzoquispeamao@gmail.com)
-* **Ubicación:** Perú 🇵🇪
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renzoqa)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renzoquispeamao@gmail.com)
+![Ubicación](https://img.shields.io/badge/Per%C3%BA-D91023?style=for-the-badge&logoColor=white)
