@@ -93,6 +93,7 @@
 ### 📈 Últimos Proyectos
 
 **🔒 Privados**
+* 🔒 [alfresco-events-audit](https://github.com/renzoqamao/alfresco-events-audit) - Indexa los repo-events (event2) de Alfresco en Elasticsearch consumiéndolos de ActiveMQ vía Virtual Topics, con dashboards de auditoría en Kibana e infraestructura Docker (Alfresco Community 26 + ES + Kibana). Servicio Spring Boot 3 / Java 17.
 * 🔒 [aca-shared-folder-extension](https://github.com/renzoqamao/aca-shared-folder-extension) - Frontend ADF/Angular (ACA/ADW) de la extensión de carpeta compartida: comparte una carpeta como enlace público y navega, previsualiza y descarga su contenido sin iniciar sesión. Acompaña al backend renzoqamao/shared-folder-extension.
 * 🔒 [migration-to-database](https://github.com/renzoqamao/migration-to-database) - migration csv to database postgresql
 * 🔒 [migration-to-alfresco](https://github.com/renzoqamao/migration-to-alfresco) - migration database to alfresco content services
@@ -104,7 +105,16 @@
 * 🔒 [workflow-extension](https://github.com/renzoqamao/workflow-extension) - Flujo de trabajo personalizado de Alfresco/Activiti: revisión secuencial de Hojas de Vida por tres grupos (aprobar/rechazar con asignación dinámica de grupo). Alfresco SDK All-In-One.
 
 **🌍 Públicos**
-*Sin proyectos públicos recientes.*
+* 🌍 [training-aps](https://github.com/renzoqamao/training-aps) - repositorio de recursos para desarrollar en alfresco process services
+* 🌍 [acs-monitoring-prometheus-grafana](https://github.com/renzoqamao/acs-monitoring-prometheus-grafana) - Stack de monitoreo para Alfresco Content Services (ACS) basado en Prometheus y Grafana, desplegado mediante Docker Compose. Recolecta métricas de la plataforma Alfresco, el sistema operativo anfitrión y los servicios de transformación, y las visualiza en dashboards precargados.
+* 🌍 [gettingStartedWithK8s](https://github.com/renzoqamao/gettingStartedWithK8s) - Sin descripción
+* 🌍 [intro-helm](https://github.com/renzoqamao/intro-helm) - curso de helm de apasoft.
+* 🌍 [intro-k8s](https://github.com/renzoqamao/intro-k8s) - introducción a kubernetes
+* 🌍 [sdk6-out-of-process](https://github.com/renzoqamao/sdk6-out-of-process) - Laboratorio realizado en alfresco techquest sobre proyectos fuera del proceso de alfresco.
+* 🌍 [using-sandbox-openshift](https://github.com/renzoqamao/using-sandbox-openshift) - Laboratorio de Kubernetes Openshift utilizando developer sandbox
+* 🌍 [app_security](https://github.com/renzoqamao/app_security) - proyecto del curso de spring security de debuggeando ideas.
+* 🌍 [curso-angular](https://github.com/renzoqamao/curso-angular) - Curso de angular de Fernando Herrera Dev/Talles
+* 🌍 [build-acp](https://github.com/renzoqamao/build-acp) -  Este es un ejemplo de creación de ACP desde el filesystem. Cree previamente los tipos documentales. Así que si se necesita algo mas especifico modificar o usar las clases del paquete com.alfresco.acp.builder
 
 ---
 
