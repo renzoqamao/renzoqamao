@@ -93,6 +93,7 @@
 ### 📈 Últimos Proyectos
 
 **🔒 Privados**
+* 🔒 [watermark](https://github.com/renzoqamao/watermark) - Módulo para Alfresco Content Services (ACS 25.3 / SDK 4.13) que aplica marca de agua (texto + logo) al vuelo sobre vistas y descargas de PDF, imágenes y previews de Office — sin persistirla ni indexarla. Configurable en caliente desde una herramienta en la Consola de Administración de Share. Cubre descarga individual y ZIP.
 * 🔒 [alfresco-content-analyzer](https://github.com/renzoqamao/alfresco-content-analyzer) - API REST reactiva (Spring WebFlux) de auditoría de almacenamiento sobre Alfresco: peso, conteos, top-N, contenido inactivo, distribución por formato, bloqueos y streaming NDJSON, vía agregaciones AFTS/Solr.
 * 🔒 [migration-to-database](https://github.com/renzoqamao/migration-to-database) - migration csv to database postgresql
 * 🔒 [alfresco-events-audit](https://github.com/renzoqamao/alfresco-events-audit) - Indexa los repo-events (event2) de Alfresco en Elasticsearch consumiéndolos de ActiveMQ vía Virtual Topics, con dashboards de auditoría en Kibana e infraestructura Docker (Alfresco Community 26 + ES + Kibana). Servicio Spring Boot 3 / Java 17.
@@ -102,7 +103,8 @@
 * 🔒 [shared-folder-extension](https://github.com/renzoqamao/shared-folder-extension) - Extensión para Alfresco (ACS + Share) para compartir carpetas mediante enlaces públicos: navegación, descarga, ZIP, expiración y bloqueo.
 * 🔒 [import-full-node](https://github.com/renzoqamao/import-full-node) - Alfresco Import FullNode es un módulo para Alfresco Content Services que permite importar documentos y carpetas con metadata avanzada, aspectos, versionado completo, UUIDs personalizados y asociaciones peer y child. Diseñado para migraciones complejas, cargas batch e integraciones empresariales.
 * 🔒 [dynamic-associations](https://github.com/renzoqamao/dynamic-associations) - asociaciones dinamicas por webscripts.
-* 🔒 [advanced-search-extension](https://github.com/renzoqamao/advanced-search-extension) - Amplía la búsqueda avanzada de Alfresco para admitir consultas de múltiples valores en propiedades restringidas, incluidos controles de formulario Compartir personalizados y lógica de búsqueda de backend.
+
+🔒 [advanced-search-extension](https://github.com/renzoqamao/advanced-search-extension) · 🔒 [workflow-extension](https://github.com/renzoqamao/workflow-extension) · 🔒 [onbase-alfresco-transfer](https://github.com/renzoqamao/onbase-alfresco-transfer) · 🔒 [AppDebateya](https://github.com/renzoqamao/AppDebateya) · 🔒 [webintegra](https://github.com/renzoqamao/webintegra)
 
 **🌍 Públicos**
 * 🌍 [training-aps](https://github.com/renzoqamao/training-aps) - repositorio de recursos para desarrollar en alfresco process services
@@ -115,6 +117,8 @@
 * 🌍 [app_security](https://github.com/renzoqamao/app_security) - proyecto del curso de spring security de debuggeando ideas.
 * 🌍 [curso-angular](https://github.com/renzoqamao/curso-angular) - Curso de angular de Fernando Herrera Dev/Talles
 * 🌍 [build-acp](https://github.com/renzoqamao/build-acp) -  Este es un ejemplo de creación de ACP desde el filesystem. Cree previamente los tipos documentales. Así que si se necesita algo mas especifico modificar o usar las clases del paquete com.alfresco.acp.builder
+
+🌍 [alfresco-js-webscripts](https://github.com/renzoqamao/alfresco-js-webscripts) · 🌍 [training-k8s](https://github.com/renzoqamao/training-k8s) · 🌍 [Curso-Javascript](https://github.com/carlosal1015/Curso-Javascript) · 🌍 [CC-421-Practica-Calificada-05](https://github.com/kx22peralta/CC-421-Practica-Calificada-05) · 🌍 [IA-PracticaCalificada2](https://github.com/renzoqamao/IA-PracticaCalificada2) · 🌍 [IA-PracticaCalificada2](https://github.com/kx22peralta/IA-PracticaCalificada2) · 🌍 [IA-PracticaCalificada1](https://github.com/renzoqamao/IA-PracticaCalificada1) · 🌍 [IA-PracticaCalificada1](https://github.com/kx22peralta/IA-PracticaCalificada1) · 🌍 [hello-world](https://github.com/renzoqamao/hello-world) · 🌍 [CC4P1-ProgramacionConcurrente-Distribuida](https://github.com/renzoqamao/CC4P1-ProgramacionConcurrente-Distribuida) · 🌍 [Capstone](https://github.com/renzoqamao/Capstone) · 🌍 [mate_computacional](https://github.com/renzoqamao/mate_computacional) · 🌍 [Html5](https://github.com/renzoqamao/Html5) · 🌍 [four-leaves](https://github.com/four-leaves/four-leaves) · 🌍 [Proyecto_C_Grafica](https://github.com/JoshuaDRS/Proyecto_C_Grafica) · 🌍 [Proyecto_C_Grafica](https://github.com/renzoqamao/Proyecto_C_Grafica) · 🌍 [Cpp-Programming](https://github.com/carlosal1015/Cpp-Programming) · 🌍 [LaTeX-and-Friends](https://github.com/four-leaves/LaTeX-and-Friends) · 🌍 [dimensionr.github.io](https://github.com/dimensionr/dimensionr.github.io)
 
 ---
 
