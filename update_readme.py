@@ -64,20 +64,37 @@ def update_readme():
     sorted_repos = sorted(repos, key=lambda x: x['updated_at'], reverse=True)
 
     def render_projects(repo_list, visibility_icon):
-        """Construye la lista en Markdown para un conjunto de repos."""
+        """Construye la lista detallada en Markdown para un conjunto de repos."""
         items = []
         for r in repo_list:
             print(f"recent: {r['name']} - Actualizado el {r['updated_at']} - Privado: {r['private']}")
             items.append(f"* {visibility_icon} [{r['name']}]({r['html_url']}) - {r['description'] or 'Sin descripción'}")
         return items
 
-    # Filtrar el repo de perfil y separar por visibilidad (últimos 10 de cada uno)
-    visible_repos = [r for r in sorted_repos if r['name'] != "renzoqamao"]
-    private_repos = [r for r in visible_repos if r['private']][:10]
-    public_repos = [r for r in visible_repos if not r['private']][:10]
+    def render_rest(repo_list, visibility_icon):
+        """Construye una única línea con el resto de repos, separados por ' · '."""
+        return " · ".join(
+            f"{visibility_icon} [{r['name']}]({r['html_url']})" for r in repo_list
+        )
 
-    private_list = "\n".join(render_projects(private_repos, "🔒")) or "*Sin proyectos privados recientes.*"
-    public_list = "\n".join(render_projects(public_repos, "🌍")) or "*Sin proyectos públicos recientes.*"
+    def build_section(repo_list, visibility_icon, empty_msg):
+        """Combina los 10 más recientes (detallados) con el resto en una línea."""
+        top = repo_list[:10]
+        rest = repo_list[10:]
+        if not top:
+            return empty_msg
+        section = "\n".join(render_projects(top, visibility_icon))
+        if rest:
+            section += "\n\n" + render_rest(rest, visibility_icon)
+        return section
+
+    # Filtrar el repo de perfil y separar por visibilidad
+    visible_repos = [r for r in sorted_repos if r['name'] != "renzoqamao"]
+    private_repos = [r for r in visible_repos if r['private']]
+    public_repos = [r for r in visible_repos if not r['private']]
+
+    private_list = build_section(private_repos, "🔒", "*Sin proyectos privados recientes.*")
+    public_list = build_section(public_repos, "🌍", "*Sin proyectos públicos recientes.*")
 
     # Marcador que separa el encabezado escrito a mano (estático) del bloque
     # dinámico. Todo lo que esté ANTES del marcador se preserva tal cual; todo
