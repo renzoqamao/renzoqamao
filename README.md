@@ -93,6 +93,7 @@
 ### 📈 Últimos Proyectos
 
 **🔒 Privados**
+* 🔒 [alfresco-content-analyzer](https://github.com/renzoqamao/alfresco-content-analyzer) - API REST reactiva (Spring WebFlux) de auditoría de almacenamiento sobre Alfresco: peso, conteos, top-N, contenido inactivo, distribución por formato, bloqueos y streaming NDJSON, vía agregaciones AFTS/Solr.
 * 🔒 [migration-to-database](https://github.com/renzoqamao/migration-to-database) - migration csv to database postgresql
 * 🔒 [alfresco-events-audit](https://github.com/renzoqamao/alfresco-events-audit) - Indexa los repo-events (event2) de Alfresco en Elasticsearch consumiéndolos de ActiveMQ vía Virtual Topics, con dashboards de auditoría en Kibana e infraestructura Docker (Alfresco Community 26 + ES + Kibana). Servicio Spring Boot 3 / Java 17.
 * 🔒 [aca-shared-folder-extension](https://github.com/renzoqamao/aca-shared-folder-extension) - Frontend ADF/Angular (ACA/ADW) de la extensión de carpeta compartida: comparte una carpeta como enlace público y navega, previsualiza y descarga su contenido sin iniciar sesión. Acompaña al backend renzoqamao/shared-folder-extension.
@@ -102,7 +103,6 @@
 * 🔒 [import-full-node](https://github.com/renzoqamao/import-full-node) - Alfresco Import FullNode es un módulo para Alfresco Content Services que permite importar documentos y carpetas con metadata avanzada, aspectos, versionado completo, UUIDs personalizados y asociaciones peer y child. Diseñado para migraciones complejas, cargas batch e integraciones empresariales.
 * 🔒 [dynamic-associations](https://github.com/renzoqamao/dynamic-associations) - asociaciones dinamicas por webscripts.
 * 🔒 [advanced-search-extension](https://github.com/renzoqamao/advanced-search-extension) - Amplía la búsqueda avanzada de Alfresco para admitir consultas de múltiples valores en propiedades restringidas, incluidos controles de formulario Compartir personalizados y lógica de búsqueda de backend.
-* 🔒 [workflow-extension](https://github.com/renzoqamao/workflow-extension) - Flujo de trabajo personalizado de Alfresco/Activiti: revisión secuencial de Hojas de Vida por tres grupos (aprobar/rechazar con asignación dinámica de grupo). Alfresco SDK All-In-One.
 
 **🌍 Públicos**
 * 🌍 [training-aps](https://github.com/renzoqamao/training-aps) - repositorio de recursos para desarrollar en alfresco process services
