@@ -107,7 +107,7 @@
 🔒 [dynamic-associations](https://github.com/renzoqamao/dynamic-associations) · 🔒 [advanced-search-extension](https://github.com/renzoqamao/advanced-search-extension) · 🔒 [workflow-extension](https://github.com/renzoqamao/workflow-extension) · 🔒 [onbase-alfresco-transfer](https://github.com/renzoqamao/onbase-alfresco-transfer) · 🔒 [AppDebateya](https://github.com/renzoqamao/AppDebateya) · 🔒 [webintegra](https://github.com/renzoqamao/webintegra)
 
 **🌍 Públicos**
-* 🌍 [adf-course](https://github.com/renzoqamao/adf-course) - Curso práctico de ADF (Alfresco Digital Framework) sobre Angular: construí una extensión para Alfresco Content App paso a paso, una rama por caso de uso. 
+* 🌍 [adf-course](https://github.com/renzoqamao/adf-course) - Curso práctico de ADF (Alfresco Digital Framework) sobre Angular: construcción de una extensión para Alfresco Content App paso a paso.
 * 🌍 [training-aps](https://github.com/renzoqamao/training-aps) - repositorio de recursos para desarrollar en alfresco process services
 * 🌍 [acs-monitoring-prometheus-grafana](https://github.com/renzoqamao/acs-monitoring-prometheus-grafana) - Stack de monitoreo para Alfresco Content Services (ACS) basado en Prometheus y Grafana, desplegado mediante Docker Compose. Recolecta métricas de la plataforma Alfresco, el sistema operativo anfitrión y los servicios de transformación, y las visualiza en dashboards precargados.
 * 🌍 [gettingStartedWithK8s](https://github.com/renzoqamao/gettingStartedWithK8s) - Sin descripción
