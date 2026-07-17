@@ -93,6 +93,7 @@
 ### 📈 Últimos Proyectos
 
 **🔒 Privados**
+* 🔒 [acs-deploy-kit](https://github.com/renzoqamao/acs-deploy-kit) - Suite de laboratorios de aprendizaje para desplegar alfresco content services en k8s (local kind) y Openshift (local CRC)
 * 🔒 [migration-to-alfresco](https://github.com/renzoqamao/migration-to-alfresco) - migration database to alfresco content services
 * 🔒 [import-full-node-4.1](https://github.com/renzoqamao/import-full-node-4.1) - Alfresco Import Full Node es un módulo para Alfresco versiones 4.0,d con java 7 que permite importar documentos y carpetas con metadata avanzada, aspectos, versionado completo, UUIDs personalizados y asociaciones peer y child. Diseñado para migraciones complejas, cargas batch e integraciones empresariales.
 * 🔒 [import-full-node](https://github.com/renzoqamao/import-full-node) - Alfresco Import FullNode es un módulo para Alfresco Content Services que permite importar documentos y carpetas con metadata avanzada, aspectos, versionado completo, UUIDs personalizados y asociaciones peer y child. Diseñado para migraciones complejas, cargas batch e integraciones empresariales.
@@ -102,9 +103,8 @@
 * 🔒 [workflow-extension](https://github.com/renzoqamao/workflow-extension) - Flujo de trabajo personalizado de Alfresco/Activiti: revisión secuencial de Hojas de Vida por tres grupos (aprobar/rechazar con asignación dinámica de grupo). Alfresco SDK All-In-One.
 * 🔒 [full-acp-migration](https://github.com/renzoqamao/full-acp-migration) - Ejemplo de Cliente Java standalone que migra árboles de carpetas/documentos entre dos repositorios Alfresco usando los webscripts de import-full-node (Import Node + Export/Import Full ACP), sin necesidad de desplegar ningún módulo en Alfresco.
 * 🔒 [alfresco-content-app](https://github.com/renzoqamao/alfresco-content-app) - Ejemplo despliegue de sharedFolder extension en alfresco-content-app
-* 🔒 [alfresco-content-analyzer](https://github.com/renzoqamao/alfresco-content-analyzer) - API REST reactiva (Spring WebFlux) de auditoría de almacenamiento sobre Alfresco: peso, conteos, top-N, contenido inactivo, distribución por formato, bloqueos y streaming NDJSON, vía agregaciones AFTS/Solr.
 
-🔒 [migration-to-database](https://github.com/renzoqamao/migration-to-database) · 🔒 [alfresco-events-audit](https://github.com/renzoqamao/alfresco-events-audit) · 🔒 [aca-shared-folder-extension](https://github.com/renzoqamao/aca-shared-folder-extension) · 🔒 [dynamic-associations](https://github.com/renzoqamao/dynamic-associations) · 🔒 [advanced-search-extension](https://github.com/renzoqamao/advanced-search-extension) · 🔒 [onbase-alfresco-transfer](https://github.com/renzoqamao/onbase-alfresco-transfer) · 🔒 [AppDebateya](https://github.com/renzoqamao/AppDebateya) · 🔒 [webintegra](https://github.com/renzoqamao/webintegra)
+🔒 [alfresco-content-analyzer](https://github.com/renzoqamao/alfresco-content-analyzer) · 🔒 [migration-to-database](https://github.com/renzoqamao/migration-to-database) · 🔒 [alfresco-events-audit](https://github.com/renzoqamao/alfresco-events-audit) · 🔒 [aca-shared-folder-extension](https://github.com/renzoqamao/aca-shared-folder-extension) · 🔒 [dynamic-associations](https://github.com/renzoqamao/dynamic-associations) · 🔒 [advanced-search-extension](https://github.com/renzoqamao/advanced-search-extension) · 🔒 [onbase-alfresco-transfer](https://github.com/renzoqamao/onbase-alfresco-transfer) · 🔒 [AppDebateya](https://github.com/renzoqamao/AppDebateya) · 🔒 [webintegra](https://github.com/renzoqamao/webintegra)
 
 **🌍 Públicos**
 * 🌍 [training-aps](https://github.com/renzoqamao/training-aps) - repositorio de recursos para desarrollar en alfresco process services
