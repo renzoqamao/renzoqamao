@@ -72,6 +72,25 @@
 <!-- DYNAMIC_CONTENT:START -->
 <!-- ⚠️ El contenido a partir de aquí se genera automáticamente con update_readme.py — no editar a mano. -->
 
+### 📊 Estadísticas de GitHub
+
+| 📦 Repos | ⭐ Estrellas | 🍴 Forks | 👥 Seguidores | 🔥 Contrib. (año) | 🔥 Racha | 🏆 Máx |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 48 | 9 | 7 | 6 | 510 | 6 d | 8 d |
+
+**Lenguajes más usados**
+
+```text
+TypeScript        █████████░░░░░░░░░░░   46.8%
+Jupyter Notebook  ████░░░░░░░░░░░░░░░░   19.3%
+Java              ███░░░░░░░░░░░░░░░░░   13.2%
+C++               █░░░░░░░░░░░░░░░░░░░    7.1%
+HTML              █░░░░░░░░░░░░░░░░░░░    4.7%
+SCSS              ░░░░░░░░░░░░░░░░░░░░    2.2%
+```
+
+---
+
 ### 🚀 Tecnologías Detectadas en mis Repositorios
 ![Batchfile](https://img.shields.io/badge/-Batchfile-grey?style=flat-square&logo=github&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![Clarion](https://img.shields.io/badge/-Clarion-grey?style=flat-square&logo=github&logoColor=white) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=docker&logoColor=white) ![FreeMarker](https://img.shields.io/badge/-FreeMarker-grey?style=flat-square&logo=github&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Go Template](https://img.shields.io/badge/-Go%20Template-grey?style=flat-square&logo=github&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Papyrus](https://img.shields.io/badge/-Papyrus-grey?style=flat-square&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Roff](https://img.shields.io/badge/-Roff-grey?style=flat-square&logo=github&logoColor=white) ![SCSS](https://img.shields.io/badge/-SCSS-grey?style=flat-square&logo=github&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-89E051?style=flat-square&logo=gnubash&logoColor=white) ![TeX](https://img.shields.io/badge/-TeX-grey?style=flat-square&logo=github&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
