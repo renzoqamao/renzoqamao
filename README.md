@@ -69,19 +69,6 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renzoqamao&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renzoqamao&layout=compact&hide_border=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=renzoqamao&hide_border=true&theme=tokyonight)
-
-</div>
-
----
-
 <!-- DYNAMIC_CONTENT:START -->
 <!-- ⚠️ El contenido a partir de aquí se genera automáticamente con update_readme.py — no editar a mano. -->
 
