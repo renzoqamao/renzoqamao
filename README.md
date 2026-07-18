@@ -93,8 +93,8 @@
 ### 📈 Últimos Proyectos
 
 **🔒 Privados**
-* 🔒 [acs-deploy-kit](https://github.com/renzoqamao/acs-deploy-kit) - Suite de laboratorios de aprendizaje para desplegar alfresco content services en k8s (local kind) y Openshift (local CRC)
 * 🔒 [migration-to-alfresco](https://github.com/renzoqamao/migration-to-alfresco) - migration database to alfresco content services
+* 🔒 [acs-deploy-kit](https://github.com/renzoqamao/acs-deploy-kit) - Suite de laboratorios de aprendizaje para desplegar alfresco content services en k8s (local kind) y Openshift (local CRC)
 * 🔒 [import-full-node-4.1](https://github.com/renzoqamao/import-full-node-4.1) - Alfresco Import Full Node es un módulo para Alfresco versiones 4.0,d con java 7 que permite importar documentos y carpetas con metadata avanzada, aspectos, versionado completo, UUIDs personalizados y asociaciones peer y child. Diseñado para migraciones complejas, cargas batch e integraciones empresariales.
 * 🔒 [import-full-node](https://github.com/renzoqamao/import-full-node) - Alfresco Import FullNode es un módulo para Alfresco Content Services que permite importar documentos y carpetas con metadata avanzada, aspectos, versionado completo, UUIDs personalizados y asociaciones peer y child. Diseñado para migraciones complejas, cargas batch e integraciones empresariales.
 * 🔒 [metadata-driven-security-extension](https://github.com/renzoqamao/metadata-driven-security-extension) - Extensión Alfresco (AIO SDK 4.11) que aplica seguridad a documentos basada en metadatos "keyword". Normaliza valores (usuario, grupo, security keyword), asigna el rol Consumer y rompe la herencia. Incluye Behaviour reactivo y WebScripts para procesamiento masivo o individual, con listas de referencia y propiedades configurables.
