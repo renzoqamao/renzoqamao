@@ -76,14 +76,14 @@
 
 | 📦 Repos | ⭐ Estrellas | 🍴 Forks | 👥 Seguidores | 🔥 Contrib. (año) | 🔥 Racha | 🏆 Máx |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 49 | 9 | 7 | 6 | 517 | 6 d | 8 d |
+| 49 | 9 | 7 | 6 | 519 | 1 d | 8 d |
 
 **Lenguajes más usados**
 
 ```text
-TypeScript        █████████░░░░░░░░░░░   46.7%
-Jupyter Notebook  ████░░░░░░░░░░░░░░░░   19.3%
-Java              ███░░░░░░░░░░░░░░░░░   13.3%
+TypeScript        █████████░░░░░░░░░░░   46.5%
+Jupyter Notebook  ████░░░░░░░░░░░░░░░░   19.2%
+Java              ███░░░░░░░░░░░░░░░░░   13.7%
 C++               █░░░░░░░░░░░░░░░░░░░    7.1%
 HTML              █░░░░░░░░░░░░░░░░░░░    4.7%
 SCSS              ░░░░░░░░░░░░░░░░░░░░    2.2%
@@ -99,8 +99,8 @@ SCSS              ░░░░░░░░░░░░░░░░░░░░  
 ### 📈 Últimos Proyectos
 
 **🔒 Privados**
-* 🔒 [migration-to-database](https://github.com/renzoqamao/migration-to-database) - migration csv to database postgresql
 * 🔒 [migration-to-alfresco](https://github.com/renzoqamao/migration-to-alfresco) - migration database to alfresco content services
+* 🔒 [migration-to-database](https://github.com/renzoqamao/migration-to-database) - migration csv to database postgresql
 * 🔒 [acs-deploy-kit](https://github.com/renzoqamao/acs-deploy-kit) - Suite de laboratorios de aprendizaje para desplegar alfresco content services en k8s (local kind) y Openshift (local CRC)
 * 🔒 [alfresco-local-lab](https://github.com/renzoqamao/alfresco-local-lab) - Laboratorio local de CI/CD para Alfresco: GitLab + Runner, Nexus, Jenkins, SonarQube, Harbor, Argo CD y Terraform sobre Docker/kind — pipelines que construyen, publican y despliegan extensiones e imágenes custom de ACS en Kubernetes, con guías paso a paso en español.
 * 🔒 [import-full-node-4.1](https://github.com/renzoqamao/import-full-node-4.1) - Alfresco Import Full Node es un módulo para Alfresco versiones 4.0,d con java 7 que permite importar documentos y carpetas con metadata avanzada, aspectos, versionado completo, UUIDs personalizados y asociaciones peer y child. Diseñado para migraciones complejas, cargas batch e integraciones empresariales.
