@@ -76,16 +76,16 @@
 
 | 📦 Repos | ⭐ Estrellas | 🍴 Forks | 👥 Seguidores | 🔥 Contrib. (año) | 🔥 Racha | 🏆 Máx |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 50 | 9 | 7 | 8 | 534 | 0 d | 8 d |
+| 50 | 9 | 7 | 8 | 559 | 1 d | 8 d |
 
 **Lenguajes más usados**
 
 ```text
-TypeScript        █████████░░░░░░░░░░░   46.0%
-Jupyter Notebook  ████░░░░░░░░░░░░░░░░   19.0%
-Java              ███░░░░░░░░░░░░░░░░░   14.5%
-C++               █░░░░░░░░░░░░░░░░░░░    7.0%
-HTML              █░░░░░░░░░░░░░░░░░░░    4.6%
+TypeScript        █████████░░░░░░░░░░░   44.9%
+Jupyter Notebook  ████░░░░░░░░░░░░░░░░   18.5%
+Java              ███░░░░░░░░░░░░░░░░░   16.5%
+C++               █░░░░░░░░░░░░░░░░░░░    6.8%
+HTML              █░░░░░░░░░░░░░░░░░░░    4.5%
 SCSS              ░░░░░░░░░░░░░░░░░░░░    2.2%
 ```
 
@@ -99,18 +99,18 @@ SCSS              ░░░░░░░░░░░░░░░░░░░░  
 ### 📈 Últimos Proyectos
 
 **🔒 Privados**
-* 🔒 [ms-graph-extension](https://github.com/renzoqamao/ms-graph-extension) - Extensión para Alfresco Content Services (ACS) Community 25.3 / SDK 4.13 que transforma documentos de ofimática (Word, Excel, PowerPoint) usando la API de Microsoft Graph (p. ej. .docx → .pdf) y guarda el resultado como un nodo versionado. (EXPERIMENTAL)
 * 🔒 [import-full-node-4.1](https://github.com/renzoqamao/import-full-node-4.1) - Alfresco Import Full Node es un módulo para Alfresco versiones 4.0,d con java 7 que permite importar documentos y carpetas con metadata avanzada, aspectos, versionado completo, UUIDs personalizados y asociaciones peer y child. Diseñado para migraciones complejas, cargas batch e integraciones empresariales.
 * 🔒 [import-full-node](https://github.com/renzoqamao/import-full-node) - Alfresco Import FullNode es un módulo para Alfresco Content Services que permite importar documentos y carpetas con metadata avanzada, aspectos, versionado completo, UUIDs personalizados y asociaciones peer y child. Diseñado para migraciones complejas, cargas batch e integraciones empresariales.
+* 🔒 [full-acp-migration](https://github.com/renzoqamao/full-acp-migration) - Ejemplo de Cliente Java standalone que migra árboles de carpetas/documentos entre dos repositorios Alfresco usando los webscripts de import-full-node (Import Node + Export/Import Full ACP), sin necesidad de desplegar ningún módulo en Alfresco.
+* 🔒 [ms-graph-extension](https://github.com/renzoqamao/ms-graph-extension) - Extensión para Alfresco Content Services (ACS) Community 25.3 / SDK 4.13 que transforma documentos de ofimática (Word, Excel, PowerPoint) usando la API de Microsoft Graph (p. ej. .docx → .pdf) y guarda el resultado como un nodo versionado. (EXPERIMENTAL)
 * 🔒 [migration-to-alfresco](https://github.com/renzoqamao/migration-to-alfresco) - migration database to alfresco content services
 * 🔒 [migration-to-database](https://github.com/renzoqamao/migration-to-database) - migration csv to database postgresql
 * 🔒 [acs-deploy-kit](https://github.com/renzoqamao/acs-deploy-kit) - Suite de laboratorios de aprendizaje para desplegar alfresco content services en k8s (local kind) y Openshift (local CRC)
 * 🔒 [alfresco-local-lab](https://github.com/renzoqamao/alfresco-local-lab) - Laboratorio local de CI/CD para Alfresco: GitLab + Runner, Nexus, Jenkins, SonarQube, Harbor, Argo CD y Terraform sobre Docker/kind — pipelines que construyen, publican y despliegan extensiones e imágenes custom de ACS en Kubernetes, con guías paso a paso en español.
 * 🔒 [metadata-driven-security-extension](https://github.com/renzoqamao/metadata-driven-security-extension) - Extensión Alfresco (AIO SDK 4.11) que aplica seguridad a documentos basada en metadatos "keyword". Normaliza valores (usuario, grupo, security keyword), asigna el rol Consumer y rompe la herencia. Incluye Behaviour reactivo y WebScripts para procesamiento masivo o individual, con listas de referencia y propiedades configurables.
 * 🔒 [shared-folder-extension](https://github.com/renzoqamao/shared-folder-extension) - Extensión para Alfresco (ACS + Share) para compartir carpetas mediante enlaces públicos: navegación, descarga, ZIP, expiración y bloqueo.
-* 🔒 [watermark](https://github.com/renzoqamao/watermark) - Módulo para Alfresco Content Services (ACS 25.3 / SDK 4.13) que aplica marca de agua (texto + logo) al vuelo sobre vistas y descargas de PDF, imágenes y previews de Office — sin persistirla ni indexarla. Configurable en caliente desde una herramienta en la Consola de Administración de Share. Cubre descarga individual y ZIP.
 
-🔒 [workflow-extension](https://github.com/renzoqamao/workflow-extension) · 🔒 [full-acp-migration](https://github.com/renzoqamao/full-acp-migration) · 🔒 [alfresco-content-app](https://github.com/renzoqamao/alfresco-content-app) · 🔒 [alfresco-content-analyzer](https://github.com/renzoqamao/alfresco-content-analyzer) · 🔒 [alfresco-events-audit](https://github.com/renzoqamao/alfresco-events-audit) · 🔒 [aca-shared-folder-extension](https://github.com/renzoqamao/aca-shared-folder-extension) · 🔒 [dynamic-associations](https://github.com/renzoqamao/dynamic-associations) · 🔒 [advanced-search-extension](https://github.com/renzoqamao/advanced-search-extension) · 🔒 [onbase-alfresco-transfer](https://github.com/renzoqamao/onbase-alfresco-transfer) · 🔒 [AppDebateya](https://github.com/renzoqamao/AppDebateya) · 🔒 [webintegra](https://github.com/renzoqamao/webintegra)
+🔒 [watermark](https://github.com/renzoqamao/watermark) · 🔒 [workflow-extension](https://github.com/renzoqamao/workflow-extension) · 🔒 [alfresco-content-app](https://github.com/renzoqamao/alfresco-content-app) · 🔒 [alfresco-content-analyzer](https://github.com/renzoqamao/alfresco-content-analyzer) · 🔒 [alfresco-events-audit](https://github.com/renzoqamao/alfresco-events-audit) · 🔒 [aca-shared-folder-extension](https://github.com/renzoqamao/aca-shared-folder-extension) · 🔒 [dynamic-associations](https://github.com/renzoqamao/dynamic-associations) · 🔒 [advanced-search-extension](https://github.com/renzoqamao/advanced-search-extension) · 🔒 [onbase-alfresco-transfer](https://github.com/renzoqamao/onbase-alfresco-transfer) · 🔒 [AppDebateya](https://github.com/renzoqamao/AppDebateya) · 🔒 [webintegra](https://github.com/renzoqamao/webintegra)
 
 **🌍 Públicos**
 * 🌍 [training-aps](https://github.com/renzoqamao/training-aps) - repositorio de recursos para desarrollar en alfresco process services
