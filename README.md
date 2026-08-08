@@ -76,17 +76,17 @@
 
 | 📦 Repos | ⭐ Estrellas | 🍴 Forks | 👥 Seguidores | 🔥 Contrib. (año) | 🔥 Racha | 🏆 Máx |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 58 | 9 | 7 | 8 | 597 | 2 d | 8 d |
+| 59 | 9 | 7 | 8 | 605 | 3 d | 8 d |
 
 **Lenguajes más usados**
 
 ```text
-TypeScript        █████████░░░░░░░░░░░   44.3%
-Jupyter Notebook  ████░░░░░░░░░░░░░░░░   18.3%
+TypeScript        █████████░░░░░░░░░░░   43.6%
+Jupyter Notebook  ████░░░░░░░░░░░░░░░░   18.0%
 Java              ████░░░░░░░░░░░░░░░░   17.5%
-C++               █░░░░░░░░░░░░░░░░░░░    6.7%
-HTML              █░░░░░░░░░░░░░░░░░░░    4.5%
-JavaScript        ░░░░░░░░░░░░░░░░░░░░    2.1%
+C++               █░░░░░░░░░░░░░░░░░░░    6.6%
+HTML              █░░░░░░░░░░░░░░░░░░░    4.4%
+JavaScript        █░░░░░░░░░░░░░░░░░░░    2.8%
 ```
 
 ---
@@ -99,6 +99,7 @@ JavaScript        ░░░░░░░░░░░░░░░░░░░░  
 ### 📈 Últimos Proyectos
 
 **🔒 Privados**
+* 🔒 [acs-inventory](https://github.com/renzoqamao/acs-inventory) - Herramientas de inventario y dimensionamiento para migraciones de Alfresco (Content Services / legacy 4.x) a ACS 26.x + Search Enterprise: recoleccion de SO/JVM/configuracion, consultas SQL portables (MySQL/PostgreSQL/Oracle) para volumen de datos, mimetypes y crecimiento, y automatizacion de despliegue remoto por SSH.
 * 🔒 [alfresco-password-security-extension](https://github.com/renzoqamao/alfresco-password-security-extension) - Extensión para Alfresco (SDK 4.13) que incorpora políticas de contraseñas y un flujo seguro de restablecimiento de credenciales por email (con límite de intentos). Configurable íntegramente vía properties
 * 🔒 [migration-to-database](https://github.com/renzoqamao/migration-to-database) - migration csv to database postgresql
 * 🔒 [workflow-extension](https://github.com/renzoqamao/workflow-extension) - Flujo de trabajo personalizado de Alfresco/Activiti: revisión secuencial de Documentos por tres grupos (aprobar/rechazar con asignación dinámica de grupo). Alfresco SDK All-In-One.
@@ -108,9 +109,8 @@ JavaScript        ░░░░░░░░░░░░░░░░░░░░  
 * 🔒 [github-cicd-hands-on-lab](https://github.com/renzoqamao/github-cicd-hands-on-lab) - Laboratorio práctico de CI/CD con GitHub Actions: ejecutor autohospedado, catálogo de flujos de trabajo reutilizables, registro de paquetes, registro de contenedores, con proyectos de ejemplo reales del SDK de Maven/Alfresco.
 * 🔒 [container-registry-demo](https://github.com/renzoqamao/container-registry-demo) - Ejemplo mínimo y funcional que construye una imagen Docker (nginx sirviendo una página estática) y la publica en GHCR (ghcr.io), el Container Registry integrado en GitHub.
 * 🔒 [package-registry-demo](https://github.com/renzoqamao/package-registry-demo) - Ejemplo mínimo y funcional que publica una librería Java en GitHub Packages (repositorio Maven integrado en GitHub, equivalente a Nexus/Artifactory) y muestra cómo consumirla desde otro proyecto.
-* 🔒 [training-platform](https://github.com/renzoqamao/training-platform) - proyecto de ejemplo de ci con github.
 
-🔒 [training-aio](https://github.com/renzoqamao/training-aio) · 🔒 [ci-cd-catalog](https://github.com/renzoqamao/ci-cd-catalog) · 🔒 [gitlab-cicd-hands-on-lab](https://github.com/renzoqamao/gitlab-cicd-hands-on-lab) · 🔒 [ms-graph-extension](https://github.com/renzoqamao/ms-graph-extension) · 🔒 [migration-to-alfresco](https://github.com/renzoqamao/migration-to-alfresco) · 🔒 [acs-deploy-kit](https://github.com/renzoqamao/acs-deploy-kit) · 🔒 [alfresco-local-lab](https://github.com/renzoqamao/alfresco-local-lab) · 🔒 [metadata-driven-security-extension](https://github.com/renzoqamao/metadata-driven-security-extension) · 🔒 [shared-folder-extension](https://github.com/renzoqamao/shared-folder-extension) · 🔒 [watermark](https://github.com/renzoqamao/watermark) · 🔒 [alfresco-content-app](https://github.com/renzoqamao/alfresco-content-app) · 🔒 [alfresco-content-analyzer](https://github.com/renzoqamao/alfresco-content-analyzer) · 🔒 [alfresco-events-audit](https://github.com/renzoqamao/alfresco-events-audit) · 🔒 [aca-shared-folder-extension](https://github.com/renzoqamao/aca-shared-folder-extension) · 🔒 [dynamic-associations](https://github.com/renzoqamao/dynamic-associations) · 🔒 [advanced-search-extension](https://github.com/renzoqamao/advanced-search-extension) · 🔒 [onbase-alfresco-transfer](https://github.com/renzoqamao/onbase-alfresco-transfer) · 🔒 [AppDebateya](https://github.com/renzoqamao/AppDebateya) · 🔒 [webintegra](https://github.com/renzoqamao/webintegra)
+🔒 [training-platform](https://github.com/renzoqamao/training-platform) · 🔒 [training-aio](https://github.com/renzoqamao/training-aio) · 🔒 [ci-cd-catalog](https://github.com/renzoqamao/ci-cd-catalog) · 🔒 [gitlab-cicd-hands-on-lab](https://github.com/renzoqamao/gitlab-cicd-hands-on-lab) · 🔒 [ms-graph-extension](https://github.com/renzoqamao/ms-graph-extension) · 🔒 [migration-to-alfresco](https://github.com/renzoqamao/migration-to-alfresco) · 🔒 [acs-deploy-kit](https://github.com/renzoqamao/acs-deploy-kit) · 🔒 [alfresco-local-lab](https://github.com/renzoqamao/alfresco-local-lab) · 🔒 [metadata-driven-security-extension](https://github.com/renzoqamao/metadata-driven-security-extension) · 🔒 [shared-folder-extension](https://github.com/renzoqamao/shared-folder-extension) · 🔒 [watermark](https://github.com/renzoqamao/watermark) · 🔒 [alfresco-content-app](https://github.com/renzoqamao/alfresco-content-app) · 🔒 [alfresco-content-analyzer](https://github.com/renzoqamao/alfresco-content-analyzer) · 🔒 [alfresco-events-audit](https://github.com/renzoqamao/alfresco-events-audit) · 🔒 [aca-shared-folder-extension](https://github.com/renzoqamao/aca-shared-folder-extension) · 🔒 [dynamic-associations](https://github.com/renzoqamao/dynamic-associations) · 🔒 [advanced-search-extension](https://github.com/renzoqamao/advanced-search-extension) · 🔒 [onbase-alfresco-transfer](https://github.com/renzoqamao/onbase-alfresco-transfer) · 🔒 [AppDebateya](https://github.com/renzoqamao/AppDebateya) · 🔒 [webintegra](https://github.com/renzoqamao/webintegra)
 
 **🌍 Públicos**
 * 🌍 [training-aps](https://github.com/renzoqamao/training-aps) - repositorio de recursos para desarrollar en alfresco process services
