@@ -76,7 +76,7 @@
 
 | 📦 Repos | ⭐ Estrellas | 🍴 Forks | 👥 Seguidores | 🔥 Contrib. (año) | 🔥 Racha | 🏆 Máx |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 60 | 9 | 7 | 8 | 610 | 0 d | 8 d |
+| 60 | 9 | 7 | 8 | 613 | 1 d | 8 d |
 
 **Lenguajes más usados**
 
@@ -99,9 +99,9 @@ JavaScript        █░░░░░░░░░░░░░░░░░░░  
 ### 📈 Últimos Proyectos
 
 **🔒 Privados**
+* 🔒 [acs-inventory](https://github.com/renzoqamao/acs-inventory) - Herramientas de inventario y dimensionamiento para migraciones de Alfresco (Content Services / legacy 4.x) a ACS 26.x + Search Enterprise: recoleccion de SO/JVM/configuracion, consultas SQL portables (MySQL/PostgreSQL/Oracle) para volumen de datos, mimetypes y crecimiento, y automatizacion de despliegue remoto por SSH.
 * 🔒 [acs-extension](https://github.com/renzoqamao/acs-extension) - Proyecto de ejemplo de ci-cd en gitlab en all in one sdk project.
 * 🔒 [import-full-node](https://github.com/renzoqamao/import-full-node) - Alfresco Import FullNode es un módulo para Alfresco Content Services que permite importar documentos y carpetas con metadata avanzada, aspectos, versionado completo, UUIDs personalizados y asociaciones peer y child. Diseñado para migraciones complejas, cargas batch e integraciones empresariales.
-* 🔒 [acs-inventory](https://github.com/renzoqamao/acs-inventory) - Herramientas de inventario y dimensionamiento para migraciones de Alfresco (Content Services / legacy 4.x) a ACS 26.x + Search Enterprise: recoleccion de SO/JVM/configuracion, consultas SQL portables (MySQL/PostgreSQL/Oracle) para volumen de datos, mimetypes y crecimiento, y automatizacion de despliegue remoto por SSH.
 * 🔒 [alfresco-password-security-extension](https://github.com/renzoqamao/alfresco-password-security-extension) - Extensión para Alfresco (SDK 4.13) que incorpora políticas de contraseñas y un flujo seguro de restablecimiento de credenciales por email (con límite de intentos). Configurable íntegramente vía properties
 * 🔒 [migration-to-database](https://github.com/renzoqamao/migration-to-database) - migration csv to database postgresql
 * 🔒 [workflow-extension](https://github.com/renzoqamao/workflow-extension) - Flujo de trabajo personalizado de Alfresco/Activiti: revisión secuencial de Documentos por tres grupos (aprobar/rechazar con asignación dinámica de grupo). Alfresco SDK All-In-One.
