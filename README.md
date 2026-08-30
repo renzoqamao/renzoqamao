@@ -76,15 +76,15 @@
 
 | 📦 Repos | ⭐ Estrellas | 🍴 Forks | 👥 Seguidores | 🔥 Contrib. (año) | 🔥 Racha | 🏆 Máx |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 62 | 9 | 7 | 8 | 624 | 0 d | 8 d |
+| 63 | 9 | 7 | 8 | 626 | 1 d | 8 d |
 
 **Lenguajes más usados**
 
 ```text
-TypeScript        █████████░░░░░░░░░░░   43.8%
-Jupyter Notebook  ████░░░░░░░░░░░░░░░░   17.8%
-Java              ███░░░░░░░░░░░░░░░░░   17.5%
-C++               █░░░░░░░░░░░░░░░░░░░    6.6%
+TypeScript        █████████░░░░░░░░░░░   43.7%
+Jupyter Notebook  ████░░░░░░░░░░░░░░░░   17.7%
+Java              ███░░░░░░░░░░░░░░░░░   17.4%
+C++               █░░░░░░░░░░░░░░░░░░░    6.5%
 HTML              █░░░░░░░░░░░░░░░░░░░    4.5%
 JavaScript        █░░░░░░░░░░░░░░░░░░░    2.8%
 ```
@@ -99,6 +99,7 @@ JavaScript        █░░░░░░░░░░░░░░░░░░░  
 ### 📈 Últimos Proyectos
 
 **🔒 Privados**
+* 🔒 [alfresco-ha-blueprint](https://github.com/renzoqamao/alfresco-ha-blueprint) - Blueprint de Alfresco Content Services Enterprise en alta disponibilidad sobre k3d — cluster multi-nodo, Postgres/ActiveMQ/Elasticsearch replicados, NFS con protección real de datos, SSO con Keycloak, y scripts de caos para probarlo de verdad.
 * 🔒 [adf-insights-app](https://github.com/renzoqamao/adf-insights-app) - Frontend Angular + Alfresco ADF para visualizar la analítica de acs-insights-api: dashboards por carpeta, sitio y repositorio con diagramas, métricas y filtros por período/usuario.
 * 🔒 [acs-insights-api](https://github.com/renzoqamao/acs-insights-api) - API NestJS de analítica sobre un repositorio Alfresco Content Services (vía Elasticsearch): tamaños, tipos documentales, elementos más pesados, documentos bloqueados y actividad reciente por carpeta/sitio/repositorio, respetando los permisos del usuario. Documentada con OpenAPI/Swagger.
 * 🔒 [migration-to-alfresco](https://github.com/renzoqamao/migration-to-alfresco) - migration database to alfresco content services
@@ -108,9 +109,8 @@ JavaScript        █░░░░░░░░░░░░░░░░░░░  
 * 🔒 [import-full-node](https://github.com/renzoqamao/import-full-node) - Alfresco Import FullNode es un módulo para Alfresco Content Services que permite importar documentos y carpetas con metadata avanzada, aspectos, versionado completo, UUIDs personalizados y asociaciones peer y child. Diseñado para migraciones complejas, cargas batch e integraciones empresariales.
 * 🔒 [alfresco-password-security-extension](https://github.com/renzoqamao/alfresco-password-security-extension) - Extensión para Alfresco (SDK 4.13) que incorpora políticas de contraseñas y un flujo seguro de restablecimiento de credenciales por email (con límite de intentos). Configurable íntegramente vía properties
 * 🔒 [workflow-extension](https://github.com/renzoqamao/workflow-extension) - Flujo de trabajo personalizado de Alfresco/Activiti: revisión secuencial de Documentos por tres grupos (aprobar/rechazar con asignación dinámica de grupo). Alfresco SDK All-In-One.
-* 🔒 [full-acp-migration](https://github.com/renzoqamao/full-acp-migration) - Ejemplo de Cliente Java standalone que migra árboles de carpetas/documentos entre dos repositorios Alfresco usando los webscripts de import-full-node (Import Node + Export/Import Full ACP), sin necesidad de desplegar ningún módulo en Alfresco.
 
-🔒 [import-full-node-4.1](https://github.com/renzoqamao/import-full-node-4.1) · 🔒 [github-cicd-hands-on-lab](https://github.com/renzoqamao/github-cicd-hands-on-lab) · 🔒 [container-registry-demo](https://github.com/renzoqamao/container-registry-demo) · 🔒 [package-registry-demo](https://github.com/renzoqamao/package-registry-demo) · 🔒 [ci-cd-catalog](https://github.com/renzoqamao/ci-cd-catalog) · 🔒 [gitlab-cicd-hands-on-lab](https://github.com/renzoqamao/gitlab-cicd-hands-on-lab) · 🔒 [ms-graph-extension](https://github.com/renzoqamao/ms-graph-extension) · 🔒 [acs-deploy-kit](https://github.com/renzoqamao/acs-deploy-kit) · 🔒 [alfresco-local-lab](https://github.com/renzoqamao/alfresco-local-lab) · 🔒 [metadata-driven-security-extension](https://github.com/renzoqamao/metadata-driven-security-extension) · 🔒 [shared-folder-extension](https://github.com/renzoqamao/shared-folder-extension) · 🔒 [watermark](https://github.com/renzoqamao/watermark) · 🔒 [alfresco-content-app](https://github.com/renzoqamao/alfresco-content-app) · 🔒 [alfresco-events-audit](https://github.com/renzoqamao/alfresco-events-audit) · 🔒 [aca-shared-folder-extension](https://github.com/renzoqamao/aca-shared-folder-extension) · 🔒 [dynamic-associations](https://github.com/renzoqamao/dynamic-associations) · 🔒 [advanced-search-extension](https://github.com/renzoqamao/advanced-search-extension) · 🔒 [onbase-alfresco-transfer](https://github.com/renzoqamao/onbase-alfresco-transfer) · 🔒 [AppDebateya](https://github.com/renzoqamao/AppDebateya) · 🔒 [webintegra](https://github.com/renzoqamao/webintegra)
+🔒 [full-acp-migration](https://github.com/renzoqamao/full-acp-migration) · 🔒 [import-full-node-4.1](https://github.com/renzoqamao/import-full-node-4.1) · 🔒 [github-cicd-hands-on-lab](https://github.com/renzoqamao/github-cicd-hands-on-lab) · 🔒 [container-registry-demo](https://github.com/renzoqamao/container-registry-demo) · 🔒 [package-registry-demo](https://github.com/renzoqamao/package-registry-demo) · 🔒 [ci-cd-catalog](https://github.com/renzoqamao/ci-cd-catalog) · 🔒 [gitlab-cicd-hands-on-lab](https://github.com/renzoqamao/gitlab-cicd-hands-on-lab) · 🔒 [ms-graph-extension](https://github.com/renzoqamao/ms-graph-extension) · 🔒 [acs-deploy-kit](https://github.com/renzoqamao/acs-deploy-kit) · 🔒 [alfresco-local-lab](https://github.com/renzoqamao/alfresco-local-lab) · 🔒 [metadata-driven-security-extension](https://github.com/renzoqamao/metadata-driven-security-extension) · 🔒 [shared-folder-extension](https://github.com/renzoqamao/shared-folder-extension) · 🔒 [watermark](https://github.com/renzoqamao/watermark) · 🔒 [alfresco-content-app](https://github.com/renzoqamao/alfresco-content-app) · 🔒 [alfresco-events-audit](https://github.com/renzoqamao/alfresco-events-audit) · 🔒 [aca-shared-folder-extension](https://github.com/renzoqamao/aca-shared-folder-extension) · 🔒 [dynamic-associations](https://github.com/renzoqamao/dynamic-associations) · 🔒 [advanced-search-extension](https://github.com/renzoqamao/advanced-search-extension) · 🔒 [onbase-alfresco-transfer](https://github.com/renzoqamao/onbase-alfresco-transfer) · 🔒 [AppDebateya](https://github.com/renzoqamao/AppDebateya) · 🔒 [webintegra](https://github.com/renzoqamao/webintegra)
 
 **🌍 Públicos**
 * 🌍 [alfresco-content-analyzer](https://github.com/renzoqamao/alfresco-content-analyzer) - API REST reactiva (Spring WebFlux) de auditoría de almacenamiento sobre Alfresco: peso, conteos, top-N, contenido inactivo, distribución por formato, bloqueos y streaming NDJSON, vía agregaciones AFTS/Solr.
