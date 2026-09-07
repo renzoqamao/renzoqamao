@@ -99,7 +99,7 @@ JavaScript        █░░░░░░░░░░░░░░░░░░░  
 ### 📈 Últimos Proyectos
 
 **🔒 Privados**
-* 🔒 [account-lockout-extension](https://github.com/renzoqamao/account-lockout-extension) - Extensión para Alfresco Content Services y Share que bloquea la cuenta de un usuario tras N intentos fallidos de inicio de sesión (BD interna, LDAP, Kerberos, SSO), con notificaciones por email y una interfaz en Share para ver y desbloquear cuentas bloqueadas.
+* 🔒 [account-lockout-extension](https://github.com/renzoqamao/account-lockout-extension) - Extensión para Alfresco Content Services y Share que bloquea la cuenta de un usuario tras N intentos fallidos de inicio de sesión (BD interna, LDAP, Kerberos, SSO), con notificaciones por email y una interfaz en Share para ver y desbloquear cuentas.
 * 🔒 [alfresco-external-registration](https://github.com/renzoqamao/alfresco-external-registration) - Módulo Alfresco SDK AIO de auto-registro de usuarios externos: alta pública, aprobación desde la Consola de Administración, cuentas sin credenciales iniciales (activación por link)
 * 🔒 [alfresco-password-security-extension](https://github.com/renzoqamao/alfresco-password-security-extension) - Extensión para Alfresco (SDK 4.13) que incorpora políticas de contraseñas y un flujo seguro de restablecimiento de credenciales por email (con límite de intentos). Configurable íntegramente vía properties
 * 🔒 [alfresco-ha-blueprint](https://github.com/renzoqamao/alfresco-ha-blueprint) - Blueprint de Alfresco Content Services Enterprise en alta disponibilidad sobre k3d — cluster multi-nodo, Postgres/ActiveMQ/Elasticsearch replicados, NFS con protección real de datos, SSO con Keycloak, y scripts de caos para probarlo de verdad.
