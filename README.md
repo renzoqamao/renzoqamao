@@ -76,13 +76,13 @@
 
 | 📦 Repos | ⭐ Estrellas | 🍴 Forks | 👥 Seguidores | 🔥 Contrib. (año) | 🔥 Racha | 🏆 Máx |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 65 | 9 | 7 | 8 | 688 | 0 d | 8 d |
+| 65 | 9 | 7 | 8 | 696 | 2 d | 8 d |
 
 **Lenguajes más usados**
 
 ```text
 TypeScript        █████████░░░░░░░░░░░   42.6%
-Java              ████░░░░░░░░░░░░░░░░   19.1%
+Java              ████░░░░░░░░░░░░░░░░   19.2%
 Jupyter Notebook  ███░░░░░░░░░░░░░░░░░   17.3%
 C++               █░░░░░░░░░░░░░░░░░░░    6.4%
 HTML              █░░░░░░░░░░░░░░░░░░░    4.4%
@@ -99,8 +99,8 @@ JavaScript        █░░░░░░░░░░░░░░░░░░░  
 ### 📈 Últimos Proyectos
 
 **🔒 Privados**
-* 🔒 [import-full-node-4.1](https://github.com/renzoqamao/import-full-node-4.1) - Alfresco Import Full Node es un módulo para Alfresco versiones 4.0,d con java 7 que permite importar documentos y carpetas con metadata avanzada, aspectos, versionado completo, UUIDs personalizados y asociaciones peer y child. Diseñado para migraciones complejas, cargas batch e integraciones empresariales.
 * 🔒 [import-full-node](https://github.com/renzoqamao/import-full-node) - Alfresco Import FullNode es un módulo para Alfresco Content Services que permite importar documentos y carpetas con metadata avanzada, aspectos, versionado completo, UUIDs personalizados y asociaciones peer y child. Diseñado para migraciones complejas, cargas batch e integraciones empresariales.
+* 🔒 [import-full-node-4.1](https://github.com/renzoqamao/import-full-node-4.1) - Alfresco Import Full Node es un módulo para Alfresco versiones 4.0,d con java 7 que permite importar documentos y carpetas con metadata avanzada, aspectos, versionado completo, UUIDs personalizados y asociaciones peer y child. Diseñado para migraciones complejas, cargas batch e integraciones empresariales.
 * 🔒 [account-lockout-extension](https://github.com/renzoqamao/account-lockout-extension) - Extensión para Alfresco Content Services y Share que bloquea la cuenta de un usuario tras N intentos fallidos de inicio de sesión (BD interna, LDAP, Kerberos, SSO), con notificaciones por email y una interfaz en Share para ver y desbloquear cuentas.
 * 🔒 [alfresco-external-registration](https://github.com/renzoqamao/alfresco-external-registration) - Módulo Alfresco SDK AIO de auto-registro de usuarios externos: alta pública, aprobación desde la Consola de Administración, cuentas sin credenciales iniciales (activación por link)
 * 🔒 [alfresco-password-security-extension](https://github.com/renzoqamao/alfresco-password-security-extension) - Extensión para Alfresco (SDK 4.13) que incorpora políticas de contraseñas y un flujo seguro de restablecimiento de credenciales por email (con límite de intentos). Configurable íntegramente vía properties
