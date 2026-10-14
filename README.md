@@ -76,16 +76,16 @@
 
 | 📦 Repos | ⭐ Estrellas | 🍴 Forks | 👥 Seguidores | 🔥 Contrib. (año) | 🔥 Racha | 🏆 Máx |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 68 | 9 | 7 | 8 | 667 | 1 d | 8 d |
+| 68 | 9 | 7 | 8 | 687 | 4 d | 8 d |
 
 **Lenguajes más usados**
 
 ```text
-TypeScript        ████████░░░░░░░░░░░░   41.2%
-Java              ████░░░░░░░░░░░░░░░░   21.4%
-Jupyter Notebook  ███░░░░░░░░░░░░░░░░░   16.7%
-C++               █░░░░░░░░░░░░░░░░░░░    6.2%
-HTML              █░░░░░░░░░░░░░░░░░░░    4.6%
+TypeScript        ████████░░░░░░░░░░░░   41.0%
+Java              ████░░░░░░░░░░░░░░░░   21.8%
+Jupyter Notebook  ███░░░░░░░░░░░░░░░░░   16.6%
+C++               █░░░░░░░░░░░░░░░░░░░    6.1%
+HTML              █░░░░░░░░░░░░░░░░░░░    4.7%
 JavaScript        █░░░░░░░░░░░░░░░░░░░    2.7%
 ```
 
@@ -99,9 +99,9 @@ JavaScript        █░░░░░░░░░░░░░░░░░░░  
 ### 📈 Últimos Proyectos
 
 **🔒 Privados**
-* 🔒 [import-full-node-4.1](https://github.com/renzoqamao/import-full-node-4.1) - Alfresco Import Full Node es un módulo para Alfresco versiones 4.0,d con java 7 que permite importar documentos y carpetas con metadata avanzada, aspectos, versionado completo, UUIDs personalizados y asociaciones peer y child. Diseñado para migraciones complejas, cargas batch e integraciones empresariales.
 * 🔒 [worker](https://github.com/renzoqamao/worker) - Servicio Spring Boot de larga duración que reclama unidades de trabajo de una base de control compartida, y las ejecuta llamando exclusivamente a los webscripts ya existentes del AMP import-full-node/import-full-node-4.1
 * 🔒 [publisher](https://github.com/renzoqamao/publisher) - Servicio Spring Boot cuyo trabajo es publicar nodos de Alfresco en una base de datos PostgreSQL de control: decide qué unidad de trabajo debe existir (nodo, sitio o sincronización) y cuándo liberarla. 
+* 🔒 [import-full-node-4.1](https://github.com/renzoqamao/import-full-node-4.1) - Alfresco Import Full Node es un módulo para Alfresco versiones 4.0,d con java 7 que permite importar documentos y carpetas con metadata avanzada, aspectos, versionado completo, UUIDs personalizados y asociaciones peer y child. Diseñado para migraciones complejas, cargas batch e integraciones empresariales.
 * 🔒 [import-full-node](https://github.com/renzoqamao/import-full-node) - Alfresco Import FullNode es un módulo para Alfresco Content Services que permite importar documentos y carpetas con metadata avanzada, aspectos, versionado completo, UUIDs personalizados y asociaciones peer y child. Diseñado para migraciones complejas, cargas batch e integraciones empresariales.
 * 🔒 [account-lockout-extension](https://github.com/renzoqamao/account-lockout-extension) - Extensión para Alfresco Content Services y Share que bloquea la cuenta de un usuario tras N intentos fallidos de inicio de sesión (BD interna, LDAP, Kerberos, SSO), con notificaciones por email y una interfaz en Share para ver y desbloquear cuentas.
 * 🔒 [alfresco-external-registration](https://github.com/renzoqamao/alfresco-external-registration) - Módulo Alfresco SDK AIO de auto-registro de usuarios externos: alta pública, aprobación desde la Consola de Administración, cuentas sin credenciales iniciales (activación por link)
