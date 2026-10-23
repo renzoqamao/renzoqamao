@@ -76,7 +76,7 @@
 
 | 📦 Repos | ⭐ Estrellas | 🍴 Forks | 👥 Seguidores | 🔥 Contrib. (año) | 🔥 Racha | 🏆 Máx |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 68 | 9 | 7 | 7 | 691 | 2 d | 8 d |
+| 68 | 9 | 7 | 7 | 693 | 1 d | 8 d |
 
 **Lenguajes más usados**
 
@@ -99,9 +99,9 @@ JavaScript        █░░░░░░░░░░░░░░░░░░░  
 ### 📈 Últimos Proyectos
 
 **🔒 Privados**
-* 🔒 [gitlab-cicd-hands-on-lab](https://github.com/renzoqamao/gitlab-cicd-hands-on-lab) - Laboratorio práctico para la gestión autónoma de GitLab CI/CD: instalación de Docker Compose, ejecutor de Docker (DooD), componentes reutilizables del catálogo CI/CD, registro de paquetes y contenedores, con proyectos de ejemplo del SDK de Maven/Alfresco.
 * 🔒 [acs-insights-api](https://github.com/renzoqamao/acs-insights-api) - API NestJS de analítica sobre un repositorio Alfresco Content Services (vía Elasticsearch, Solr): tamaños, tipos documentales, elementos más pesados, documentos bloqueados y actividad reciente por carpeta/sitio/repositorio, respetando los permisos del usuario. Documentada con OpenAPI/Swagger.
 * 🔒 [acs-insights-app](https://github.com/renzoqamao/acs-insights-app) - Frontend Angular + Alfresco ADF para visualizar la analítica de acs-insights-api: dashboards por carpeta, sitio y repositorio con diagramas, métricas y filtros por período/usuario.
+* 🔒 [gitlab-cicd-hands-on-lab](https://github.com/renzoqamao/gitlab-cicd-hands-on-lab) - Laboratorio práctico para la gestión autónoma de GitLab CI/CD: instalación de Docker Compose, ejecutor de Docker (DooD), componentes reutilizables del catálogo CI/CD, registro de paquetes y contenedores, con proyectos de ejemplo del SDK de Maven/Alfresco.
 * 🔒 [worker](https://github.com/renzoqamao/worker) - Servicio Spring Boot de larga duración que reclama unidades de trabajo de una base de control compartida, y las ejecuta llamando exclusivamente a los webscripts ya existentes del AMP import-full-node/import-full-node-4.1
 * 🔒 [publisher](https://github.com/renzoqamao/publisher) - Servicio Spring Boot cuyo trabajo es publicar nodos de Alfresco en una base de datos PostgreSQL de control: decide qué unidad de trabajo debe existir (nodo, sitio o sincronización) y cuándo liberarla. 
 * 🔒 [import-full-node-4.1](https://github.com/renzoqamao/import-full-node-4.1) - Alfresco Import Full Node es un módulo para Alfresco versiones 4.0,d con java 7 que permite importar documentos y carpetas con metadata avanzada, aspectos, versionado completo, UUIDs personalizados y asociaciones peer y child. Diseñado para migraciones complejas, cargas batch e integraciones empresariales.
