@@ -76,12 +76,12 @@
 
 | 📦 Repos | ⭐ Estrellas | 🍴 Forks | 👥 Seguidores | 🔥 Contrib. (año) | 🔥 Racha | 🏆 Máx |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 69 | 9 | 7 | 7 | 731 | 0 d | 8 d |
+| 69 | 9 | 7 | 7 | 744 | 1 d | 8 d |
 
 **Lenguajes más usados**
 
 ```text
-TypeScript        ████████░░░░░░░░░░░░   40.9%
+TypeScript        ████████░░░░░░░░░░░░   40.8%
 Java              ████░░░░░░░░░░░░░░░░   22.0%
 Jupyter Notebook  ███░░░░░░░░░░░░░░░░░   16.5%
 C++               █░░░░░░░░░░░░░░░░░░░    6.1%
@@ -113,12 +113,12 @@ JavaScript        █░░░░░░░░░░░░░░░░░░░  
 🔒 [alfresco-external-registration](https://github.com/renzoqamao/alfresco-external-registration) · 🔒 [alfresco-password-security-extension](https://github.com/renzoqamao/alfresco-password-security-extension) · 🔒 [alfresco-ha-blueprint](https://github.com/renzoqamao/alfresco-ha-blueprint) · 🔒 [migration-to-alfresco](https://github.com/renzoqamao/migration-to-alfresco) · 🔒 [migration-to-database](https://github.com/renzoqamao/migration-to-database) · 🔒 [acs-inventory](https://github.com/renzoqamao/acs-inventory) · 🔒 [acs-extension](https://github.com/renzoqamao/acs-extension) · 🔒 [workflow-extension](https://github.com/renzoqamao/workflow-extension) · 🔒 [full-acp-migration](https://github.com/renzoqamao/full-acp-migration) · 🔒 [github-cicd-hands-on-lab](https://github.com/renzoqamao/github-cicd-hands-on-lab) · 🔒 [container-registry-demo](https://github.com/renzoqamao/container-registry-demo) · 🔒 [package-registry-demo](https://github.com/renzoqamao/package-registry-demo) · 🔒 [ci-cd-catalog](https://github.com/renzoqamao/ci-cd-catalog) · 🔒 [ms-graph-extension](https://github.com/renzoqamao/ms-graph-extension) · 🔒 [acs-deploy-kit](https://github.com/renzoqamao/acs-deploy-kit) · 🔒 [alfresco-local-lab](https://github.com/renzoqamao/alfresco-local-lab) · 🔒 [metadata-driven-security-extension](https://github.com/renzoqamao/metadata-driven-security-extension) · 🔒 [alfresco-content-app](https://github.com/renzoqamao/alfresco-content-app) · 🔒 [alfresco-events-audit](https://github.com/renzoqamao/alfresco-events-audit) · 🔒 [aca-shared-folder-extension](https://github.com/renzoqamao/aca-shared-folder-extension) · 🔒 [dynamic-associations](https://github.com/renzoqamao/dynamic-associations) · 🔒 [advanced-search-extension](https://github.com/renzoqamao/advanced-search-extension) · 🔒 [onbase-alfresco-transfer](https://github.com/renzoqamao/onbase-alfresco-transfer) · 🔒 [AppDebateya](https://github.com/renzoqamao/AppDebateya) · 🔒 [webintegra](https://github.com/renzoqamao/webintegra)
 
 **🌍 Públicos**
+* 🌍 [training-aps](https://github.com/renzoqamao/training-aps) - repositorio de recursos para desarrollar en alfresco process services
 * 🌍 [alfresco-out-of-process-course](https://github.com/renzoqamao/alfresco-out-of-process-course) - Curso práctico en español para construir extensiones out-of-process de Alfresco Content Services 26.2 con el Alfresco Java SDK (Event API + REST API) y Spring Boot 4. 13 lecciones progresivas, un proyecto completo y ejercicios con solución, probados contra ACS 26.2.
 * 🌍 [alfresco-adf-onboarding](https://github.com/renzoqamao/alfresco-adf-onboarding) - Cómo iniciar un proyecto Alfresco ADF con Angular 14 a 22: Yeoman, Nx, ACA y ADF a mano, con versiones y comandos probados.
 * 🌍 [alfresco-content-analyzer](https://github.com/renzoqamao/alfresco-content-analyzer) - API REST reactiva (Spring WebFlux) de auditoría de almacenamiento sobre Alfresco: peso, conteos, top-N, contenido inactivo, distribución por formato, bloqueos y streaming NDJSON, vía agregaciones AFTS/Solr.
 * 🌍 [training-platform](https://github.com/renzoqamao/training-platform) - proyecto de ejemplo de ci con github.
 * 🌍 [training-aio](https://github.com/renzoqamao/training-aio) - proyecto de ejemplo de ci con github.
-* 🌍 [training-aps](https://github.com/renzoqamao/training-aps) - repositorio de recursos para desarrollar en alfresco process services
 * 🌍 [streaming-download](https://github.com/renzoqamao/streaming-download) - Módulo Alfresco (ACS + Share) para descargar carpetas completas como ZIP por streaming: sin OutOfMemory ni archivos temporales en el servidor.
 * 🌍 [adf-course](https://github.com/renzoqamao/adf-course) - Curso práctico de ADF (Alfresco Digital Framework) sobre Angular: construcción de una extensión para Alfresco Content App paso a paso.
 * 🌍 [acs-monitoring-prometheus-grafana](https://github.com/renzoqamao/acs-monitoring-prometheus-grafana) - Stack de monitoreo para Alfresco Content Services (ACS) basado en Prometheus y Grafana, desplegado mediante Docker Compose. Recolecta métricas de la plataforma Alfresco, el sistema operativo anfitrión y los servicios de transformación, y las visualiza en dashboards precargados.
