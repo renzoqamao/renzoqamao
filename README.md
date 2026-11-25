@@ -76,7 +76,7 @@
 
 | 📦 Repos | ⭐ Estrellas | 🍴 Forks | 👥 Seguidores | 🔥 Contrib. (año) | 🔥 Racha | 🏆 Máx |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 69 | 9 | 7 | 6 | 704 | 1 d | 8 d |
+| 69 | 9 | 7 | 6 | 704 | 0 d | 8 d |
 
 **Lenguajes más usados**
 
